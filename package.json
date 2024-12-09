@@ -1,0 +1,25 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "defu": "6.1.4",
+    "fetch": "^1.1.0",
+    "nuxt": "^3.14.1592",
+    "nuxt-icon": "^1.0.0-beta.7"
+  },
+  "devDependencies": {
+    "@nuxt/icon": "^1.9.1",
+    "@types/node": "^18.11.0",
+    "vite-svg-loader": "^5.1.0"
+  },
+  "keywords": [],
+  "author": "Oscar Madera",
+  "license": "ISC",
+  "description": "Frontend basado en Nuxt.js"
+}
